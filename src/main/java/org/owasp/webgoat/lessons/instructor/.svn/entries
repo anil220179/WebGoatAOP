@@ -1,0 +1,43 @@
+10
+
+dir
+462
+http://webgoat.googlecode.com/svn/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/instructor
+http://webgoat.googlecode.com/svn
+
+
+
+2008-08-11T14:39:09.172121Z
+360
+brandon.devries
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4033779f-a91e-0410-96ef-6bf7bf53c507
+
+CrossSiteScripting
+dir
+
+DBCrossSiteScripting
+dir
+
+DBSQLInjection
+dir
+
+RoleBasedAccessControl
+dir
+
+SQLInjection
+dir
+

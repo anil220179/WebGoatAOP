@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE aspectj PUBLIC "-//AspectJ//DTD//EN" "http://www.eclipse.org/aspectj/dtd/aspectj.dtd">
+<aspectj>
+	<weaver options="-showWeaveInfo -verbose -debug -Xset:weaveJavaPackages=true">
+		<!-- Weave types that are within the javax.* or org.aspectj.*
+		packages. Also weave all types in the foo package that do
+		not have the @NoWeave annotation. -->
+		<include within="javax.*"/>
+		<include within="com.*"/>
+        <include within="org.*"/>
+		<include within="org.aspectj.*"/>
+	</weaver>
+	<aspects>
+		<!-- declare two existing aspects to the weaver -->
+		<aspect name="com.aspects.JSPCSRFTokenInjection"/>
+		<aspect name="com.aspects.MitigateCSRFAspect"/>
+		<!-- Of the set of aspects declared to the weaver
+		use aspects matching the type pattern "com..*" for weaving. -->
+		<include within="com.*"/>
+		<include within="org.*"/>
+		<!-- Of the set of aspects declared to the weaver
+		do not use any aspects with the @CoolAspect annotation for weaving -->
+	</aspects>
+</aspectj>

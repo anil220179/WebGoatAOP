@@ -1,0 +1,49 @@
+10
+
+dir
+462
+http://webgoat.googlecode.com/svn/trunk/webgoat/src/main/webapp/images
+http://webgoat.googlecode.com/svn
+
+
+
+2012-01-02T18:40:31.181144Z
+438
+deige101@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4033779f-a91e-0410-96ef-6bf7bf53c507
+
+WebGoatFinancial
+dir
+
+buttons
+dir
+
+header
+dir
+
+icons
+dir
+
+introduction
+dir
+
+logos
+dir
+
+menu_images
+dir
+

@@ -1,0 +1,6 @@
+<aspectj>
+	<aspects>
+		<aspect name="com.aspects.MitigateCSRFAspect"/>
+		<aspect name="com.aspects.JSPCSRFTokenInjection"/>
+	</aspects>
+</aspectj>

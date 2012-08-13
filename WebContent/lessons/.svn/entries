@@ -1,0 +1,58 @@
+10
+
+dir
+462
+http://webgoat.googlecode.com/svn/trunk/webgoat/src/main/webapp/lessons
+http://webgoat.googlecode.com/svn
+
+
+
+2011-08-12T03:00:27.408865Z
+436
+x71c4l@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4033779f-a91e-0410-96ef-6bf7bf53c507
+
+Ajax
+dir
+
+ConfManagement
+dir
+
+CrossSiteScripting
+dir
+
+DBCrossSiteScripting
+dir
+
+DBSQLInjection
+dir
+
+General
+dir
+
+GoatHillsFinancial
+dir
+
+RoleBasedAccessControl
+dir
+
+SQLInjection
+dir
+
+XPATHInjection
+dir
+

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_solutions/CsrfTokenByPass_files
+END
+tokenPage.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_solutions/CsrfTokenByPass_files/tokenPage.png
+END
+tokenHacked.png
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_solutions/CsrfTokenByPass_files/tokenHacked.png
+END
+tokenHack.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_solutions/CsrfTokenByPass_files/tokenHack.png
+END
